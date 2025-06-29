@@ -1,1 +1,2 @@
 # Terraform_Tutorial
+macでの操作を前提として、環境構築からチュートリアル実行まで
