@@ -1,5 +1,9 @@
 # Terraform_Tutorial
-macでの操作を前提としてチュートリアルを実行
-https://developer.hashicorp.com/terraform
+macでの操作を前提
 
-hoge
+homebrewによるインストール
+```
+$ brew tap hashicorp/tap
+$ brew install hashicorp/tap/terraform
+```
+
