@@ -1,5 +1,6 @@
 # Terraform_Tutorial
 macでの操作を前提
+NGINXサーバー立ち上げまで
 
 ### homebrewによるインストール
 ```
